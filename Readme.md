@@ -1,9 +1,10 @@
-##  This is a project where I developed an API that requests from github API, filters the information the way I stabilished and send the updated information to a third party Chatbot api that consumes that info ##
+##  This is a project where I developed an API that requests from github API, filters the information the way I stabilished and send the updated information to a third party Chatbot API provided by TakeBlip that consumes that info ##
 
 ## The API is available at: https://webapichatbotdeployment.azurewebsites.net/api/Infos ##
 ## The Instructions to consume the API are at: https://webapichatbotdeployment.azurewebsites.net/index.html ##
 </br>
 <p>The language that i've picked to develop this API is C# + .net Core(3.1). I also utilized frameworks and libraries like : Newtonsoft to handle the JSON files, Swagger to help document the API, and Swashbuckel which is a complement to Swagger.  </p>
+<p>The deployment server is hosted by Azure.</p>
 
 
 </br>
