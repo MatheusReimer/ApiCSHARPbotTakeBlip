@@ -1,6 +1,10 @@
 ##  This is a project where I developed an API that requests from github API, filters the information the way I stabilished and send the updated information to a third party Chatbot API provided by TakeBlip that consumes that info ##
 
 ## The API is available at: https://webapichatbotdeployment.azurewebsites.net/api/Infos ##
+<p>If you go to this page, you will get results like these. I highly recomend the use o postman to do so.</p>
+<img src="https://user-images.githubusercontent.com/56495954/129281249-a5d1a572-7c9a-4a8a-a01c-3453a96ae81a.png"></img>
+
+
 ## The Instructions to consume the API are at: https://webapichatbotdeployment.azurewebsites.net/index.html ##
 </br>
 <p>The language that i've picked to develop this API is C# + .net Core(3.1). I also utilized frameworks and libraries like : Newtonsoft to handle the JSON files, Swagger to help document the API, and Swashbuckel which is a complement to Swagger.  </p>
