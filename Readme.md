@@ -22,3 +22,9 @@
 </br>
 
 <p>The flow could go back up if the user requested another information but since the GET requests would be already processed in this case, essentialy there would be no reason to increment the flow schema.</p>
+
+
+
+## Note ##
+
+<p>I do realize that the way that I did to grab the processed information might not be the best way to it. I could not implement the way that is explained in the  <a href="https://docs.blip.ai">docs</a> though.</p>
