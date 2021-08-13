@@ -28,3 +28,11 @@
 ## Note ##
 
 <p>I do realize that the way that I did to grab the processed information might not be the best way to it. I could not implement the way that is explained in the  <a href="https://docs.blip.ai">docs</a> though.</p>
+
+
+
+
+## Final BOT Structure ##
+<p>The way that the bot was structured: </p>
+</br>
+<img src ="https://user-images.githubusercontent.com/56495954/129286102-691b8ac0-557e-402d-bd75-d3663fa3ec99.png"></img>
