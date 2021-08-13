@@ -27,7 +27,7 @@
 
 ## Note ##
 
-<p>I do realize that the way that I did to grab the processed information might not be the best way to it. I could not implement the way that is explained in the  <a href="https://docs.blip.ai">docs</a> though.</p>
+<p>I do realize that the way  I did to grab the processed information might not be the best way to do so. I could not find a way to implement multiples returns in the <a href="https://docs.blip.ai">docs</a> as I needed- 5 details, 5 titles and 5 images - My attempt was to return an array and just make 3 calls to my API but since the Chatbot cant handle array as arguments, I was not sure how to proceed. </p>
 
 
 
